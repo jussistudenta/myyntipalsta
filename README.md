@@ -1,1 +1,1 @@
-Tiedostossa *myyntipalsta_tietokanta.sql* on tietokannan luomiseen tarvittavat MySQL-komennot. Kansio *kuvat* sisältää palvelimeen ladattavat kuvat. Kansioon *legacy* olen aiempien kooditiestojen varmuuskopioita.
+Tiedostossa *myyntipalsta_tietokanta.sql* on tietokannan luomiseen tarvittavat MySQL-komennot. Kansio *kuvat* sisältää palvelimeen ladattavat kuvat. Kansio *legacy* sisältää aiempien kooditiestojen varmuuskopioita.
