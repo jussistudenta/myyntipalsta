@@ -36,7 +36,7 @@ error_reporting(E_ALL);
 
         <?php
         // Tämän avulla näytetään flash-viestit. Flash-viestit ovat viestejä, jotka näytetään
-        // yhden kerran sivun latautuessa. Niiden avulla voidaan valittaa viestejä sivulta toiselle.
+        // yhden kerran sivun latautuessa. Niiden avulla voidaan välittää viestejä sivulta toiselle.
         // Niitä voidaan käyttää ilmoitettaessa käyttäjälle erilaisia asioita siirryttäessä sivulta
         // toiselle.
         if (isset($_SESSION['flash']) && $_SESSION['flash'] != "") {
